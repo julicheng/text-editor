@@ -17,7 +17,7 @@ reverseButton.addEventListener("click", function() {
 })
 
 colorButton.addEventListener("change", function() {
-	textInput.style.color = colorButton.value
+	textInput.style.color = colorButton.value;
 })
 
 
